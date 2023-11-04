@@ -1,0 +1,7 @@
+
+ body {
+ background: linear-gradient(to bottom, #87CEEB, white);
+ /* Gradient from light blue to white */
+ color: white;
+ /* White text for better visibility */
+ }
